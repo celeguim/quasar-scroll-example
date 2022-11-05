@@ -1,4 +1,4 @@
-# Quasar App (project4)
+# Quasar App (quasar-scroll-example)
 
 A Quasar Project
 
